@@ -1,5 +1,5 @@
 # Sales Prediction Model
-
+![screenshot](sales.png)
 This project aims to develop and evaluate several statistical models for predicting sales. The notebook contains detailed steps for data preprocessing, exploratory data analysis, model building, and evaluation.
 
 ## Project Structure
